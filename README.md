@@ -1,4 +1,4 @@
-<h1 align="center">Hello Guys! We Are Capoparra! 👁️</h1>
+<h1 align="center">Hello Guys! We Are Capoparra! </h1>
 
 <div align="center">
 <a href="https://ossinsight.io">
@@ -7,23 +7,18 @@
 </div>
 
 <h4 align="center">
-  <b><a href="https://ossinsight.io/explore/">Data Explorer</a></b>
+  <b><a href="https://ossinsight.io/explore/">Software Developer</a></b>
   •
-  <b><a href="https://ossinsight.io/collections/open-source-database">Repo Rankings</a></b>
+  <b><a href="https://ossinsight.io/collections/open-source-database">IT Support</a></b>
   •
-  <b><a href="https://ossinsight.io/analyze/Ovilia">Developer Analytics</a></b>
+  <b><a href="https://ossinsight.io/analyze/Ovilia">Junior Developer</a></b>
   •
-  <a href="https://ossinsight.io/analyze/pingcap/tidb">Repo Analytics</a>
+  <a href="https://ossinsight.io/analyze/pingcap/tidb">Tech Enthusiast</a>
   •
-  <a href="https://ossinsight.io/collections/open-source-database">Collections</a>
+  <a href="https://ossinsight.io/collections/open-source-database">Problem Solver</a>
   •
-  <a href="https://ossinsight.io/docs/workshop">Workshop</a>
-  •
-  <a href="https://ossinsight.io/blog">Blog</a>
-  •
-  <a href="https://ossinsight.io/docs">API</a>
-  •
-  <a href="https://twitter.com/OSSInsight">Twitter</a>
+  <a href="https://ossinsight.io/docs/workshop">freelacer</a>
+
 </h3>
 
 ## Introduction
