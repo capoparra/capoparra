@@ -23,11 +23,18 @@
 
 ## Introduction
 
-OSS Insight is a powerful tool that provides comprehensive, valuable, and trending insights into the open source world by analyzing 6+ billion rows of GitHub events data. 
- 
-[🎦 Video - OSS Insight: Easiest New Way to Analyze Open Source Software](https://www.youtube.com/watch?v=6ofDBgXh4So&t=1s)
+💻 Junior Software Developer with more than 14 years of experience in IT support, computer maintenance, troubleshooting, and technology solutions.
 
-## Embed Real-time Widget in Repo's / Personal README.md within 30s!
+Passionate about software development, problem solving, and continuous learning. I enjoy building practical solutions, improving systems, and exploring modern technologies focused on web development and digital innovation.
+ 
+## 🚀 About Me
+- 👨‍💻 Junior Software Developer
+- 🛠 IT Support Specialist
+- 🔧 Computer Maintenance Technician
+- 🌐 Freelance Tech Professional
+- 💡 Technology Enthusiast
+- 🧩 Problem Solver
+- 📚 Constant learner in software and emerging technologies
 
 For all charming widgets, please [Check it out 👉](https://next.ossinsight.io/widgets?utm_source=github&utm_medium=referral), here are some examples:
 
